@@ -12,4 +12,4 @@ You should in general use, where possible, these two licenses:
 If for some reason you cannot use one of the above two licenses, we will
 evaluate other licenses on a case-by-case basis.
 
-When in doubt reach out to team@oo.
+When in doubt reach out to [team@oo](https://ooni.torproject.org/about/#contact).

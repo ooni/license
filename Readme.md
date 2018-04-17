@@ -1,7 +1,6 @@
-# OONI Legal
+# OONI License
 
-This repository is a collection of legal resources (currently licenses) to be
-used in software and content repositories.
+This repository is a collection of license templates for all OONI software and non-software products.
 
 You should in general use, where possible, these two licenses:
 

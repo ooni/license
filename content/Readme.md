@@ -22,7 +22,7 @@ and
 All you need to do is copy and paste this snippet on the website:
 
 ```
-© 2018 by Open Observatory of Network Interference (OONI), The Tor Project<br/>
+© 2019 by Open Observatory of Network Interference (OONI), The Tor Project<br/>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ```
 

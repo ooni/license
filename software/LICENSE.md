@@ -1,4 +1,4 @@
-Copyright 2019 Open Observatory of Network Interference (OONI), The Tor Project
+Copyright 2020 Open Observatory of Network Interference (OONI)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
